@@ -1,9 +1,8 @@
 # Implementación de modelos computacionales de la Jerarquía de Chomsky
 
-**Estudiante:** [Nombre del estudiante]  
-**Asignatura:** [Nombre de la asignatura]  
-**Docente:** [Nombre del docente]  
-**Institución:** [Nombre de la institución]
+**Estudiante:** Herving Camilo Meza
+**Asignatura:** Automatas, gramatica y lenguajes 
+**Institución:** Poli.
 
 ## 1. Introducción
 La Jerarquía de Chomsky organiza distintas familias de lenguajes formales según la complejidad de las reglas necesarias para describirlos y de los modelos computacionales capaces de reconocerlos. Su estudio permite comprender cómo cambia la capacidad de procesamiento cuando se pasa de una memoria finita a estructuras de memoria más amplias.

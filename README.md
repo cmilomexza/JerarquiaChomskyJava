@@ -1,6 +1,5 @@
 # Simulador de la Jerarquía de Chomsky
 
-**Integrante:** [Escriba aquí su nombre]
 
 ## Descripción
 Aplicación académica desarrollada en Java 17 y Swing para explorar cuatro modelos computacionales asociados a la Jerarquía de Chomsky. Cada módulo permite escribir una cadena, cargar ejemplos, avanzar paso a paso o ejecutar la simulación completa.
